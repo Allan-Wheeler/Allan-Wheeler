@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Allan-Wheeler
-- 👀 I’m interested in Decentralized Finance and algorythmic trading
+- 👀 I’m interested in Decentralized Finance and algorithmic trading
 - 🌱 I’m currently learning Javascript FullStack Development and Python Data Science
 - 💞️ I’m looking to collaborate on anything to gain experience
 - 📫 How to reach me: rallanwheeler@gmail.com
